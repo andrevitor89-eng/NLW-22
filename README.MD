@@ -25,13 +25,13 @@ NLW OPERATOR - Trilha Iniciante
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- IA
-- Tailwind
-- Gasp
-- Lucide Icons
-- Git e Github
+- Gemini API (Google AI) — análise e identificação dos momentos-chave
+- Cloudinary — upload e processamento dos vídeos
+- Tailwind CSS — interface moderna e responsiva
+- GSAP + Lucide Icons — animações fluidas e ícones elegantes
+- JavaScript puro (ES6+) — sem frameworks, leve e direto ao ponto
+- HTML
+- Git e GitHub
 
 ## 💻 Projeto
 

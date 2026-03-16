@@ -7,6 +7,7 @@ NLW OPERATOR - Trilha Iniciante
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Layout">Layout</a>
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -17,7 +18,7 @@ NLW OPERATOR - Trilha Iniciante
 <br>
 
 <p align="center">
-  <img alt="Vai Palmeiras" src=".github/wp9375Wallpaper- 2560x1600.jpg" width="100%">
+  <img alt="Wallpaper NLW" src=".github/Wallpaper- 2560x1600.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto é apenas um teste inicial de aprendizado
 
+## Layout
 
+<img alt="visual" src=".github/visual.jpeg" width="100%">
 ---
 
 Feito com ♥ by André Vitor :wave: 
